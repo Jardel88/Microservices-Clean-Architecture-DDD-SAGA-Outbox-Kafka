@@ -1,6 +1,9 @@
 HELP.md
+.idea
 .gradle
 build/
+Aplication/src/Domain/bin/
+Aplication/src/Domain/obj/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
