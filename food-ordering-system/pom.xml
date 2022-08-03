@@ -10,6 +10,8 @@
         <module>infrastructure</module>
         <module>infrastructure/kafka</module>
         <module>customer-service</module>
+        <module>payment-service</module>
+        <module>payment-service/payment-container</module>
     </modules>
 
 
